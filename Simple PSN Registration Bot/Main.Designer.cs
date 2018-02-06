@@ -184,7 +184,7 @@
             this.psnDOBLabel.Name = "psnDOBLabel";
             this.psnDOBLabel.Size = new System.Drawing.Size(123, 13);
             this.psnDOBLabel.TabIndex = 8;
-            this.psnDOBLabel.Text = "Date of Birth (mm/dd/yy)";
+            this.psnDOBLabel.Text = "Date of Birth (mm/dd/yyyy)";
             // 
             // statusStrip
             // 
